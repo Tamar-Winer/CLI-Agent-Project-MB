@@ -18,3 +18,6 @@
 1. התקינו את הספריות הנדרשות:
    ```bash
    pip install requests gradio python-dotenv
+   
+## קישור לגיליון האלקטרוני מלווה הפרויקט
+https://docs.google.com/spreadsheets/d/1YoZAuxie0TrkKqj8FRrwZejdwnwm43TSAVj-SJYdV-M/edit?usp=sharing
